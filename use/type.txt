@@ -6,3 +6,4 @@ Do you confirm generation [yes]? yes
 Confirm automatic update of your Kernel [yes]? yes
 Confirm automatic update of the Routing [yes]? yes
 344534
+this are git commands which are required
