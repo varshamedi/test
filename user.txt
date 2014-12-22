@@ -1,0 +1,7 @@
+Bundle name [IbwJobeetBundle]: IbwJobeetBundle
+Target directory [/var/www/jobeet/src]: /var/www/jobeet/src
+Configuration format (yml, xml, php, or annotation) [yml]: yml
+Do you want to generate the whole directory structure [no]? yes
+Do you confirm generation [yes]? yes
+Confirm automatic update of your Kernel [yes]? yes
+Confirm automatic update of the Routing [yes]? yes
